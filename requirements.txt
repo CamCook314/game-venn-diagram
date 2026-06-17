@@ -1,0 +1,10 @@
+#   === Setup ===
+#   Create venv (run from project root):
+#       py -3 -m venv .venv
+#
+#   Activate venv:
+#       Windows:   .venv\Scripts\activate
+#       Mac/Linux: source .venv/bin/activate
+#
+#   Install requirements:
+#       pip install -r requirements.txt
